@@ -5,7 +5,7 @@ In this project I used Apache Jmeter to evaluate the performance of www.mercury-
 - View Results Tree
 - Summarty Report
 - Aggregate Report
-I have added the jmx and jtl file of this work. Finally i have generated a html report file using command promt. This is also available in the zip file.
+### I have added the jmx and jtl file of this work. Finally i have generated a html report file using command promt. This is also available in the zip file.
 
 ### Technology used
     - Test tool: Apache Jmeter
